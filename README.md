@@ -14,7 +14,13 @@ By the end, I summarize my analysis by answering 4 questions:
 3. Do production companies affect revenue?
 4. Does budget affectt revenue?
 
-### Libraries used: 
-
+### Packages used: 
+##### Numpy
+##### Pandas 
+##### Matplotlib
 
 ### Data Dictionay: 
+| Variable | Type | Definition | Example |
+| ------------- | ------------- |------------- |------------- |
+| id |  |  |  |
+| imdb_id |  |  |  |
