@@ -35,7 +35,7 @@ By the end, I summarize my analysis by answering 4 questions:
 | production_companies | object | movie production company |  |
 | release_date | object | movie release date |  |
 | vote_count | int | number of votes for a movie |  |
-| vote_average | float |  |  |
-| release_year | int |  |  |
-| budget_adj | float |  |  |
-| revenue_adj | float |  |  |
+| vote_average | float | movie user rating |  |
+| release_year | int | movie release year |  |
+| budget_adj | float | movie budget adjusted for inflation |  |
+| revenue_adj | float | movie revenue adjusted for inflation  |  |
