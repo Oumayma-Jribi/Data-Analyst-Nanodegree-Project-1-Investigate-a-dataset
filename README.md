@@ -22,19 +22,19 @@ By the end, I summarize my analysis by answering 4 questions:
 ### Data Dictionay: 
 | Variable | Type | Definition | Example |
 | ------------- | ------------- |------------- |------------- |
-| id | int |  |  |
-| imdb_id | object |  |  |
-| popularity | float |  |  |
-| budget | int |  |  |
-| revenue | int |  |  |
-| original_title | object |  |  |
-| cast | object |  |  |
-| homepage | object |  |  |
-| runtime | int |  |  |
-| genres | object |  |  |
-| production_companies | object |  |  |
-| release_date | object |  |  |
-| vote_count | int |  |  |
+| id | int | movie id in TMDb |  |
+| imdb_id | object | movie id in IMDB |  |
+| popularity | float | a metric that measures a movie popularity combining <br> number of votes, number of views, number of "favorited"... |  |
+| budget | int | movie budget |  |
+| revenue | int | movie revenue |  |
+| original_title | object | movie title |  |
+| cast | object | movie cast |  |
+| homepage | object | link to the movie homepage |  |
+| runtime | int | movie duration |  |
+| genres | object | movie genre |  |
+| production_companies | object | movie production company |  |
+| release_date | object | movie release date |  |
+| vote_count | int | number of votes for a movie |  |
 | vote_average | float |  |  |
 | release_year | int |  |  |
 | budget_adj | float |  |  |
