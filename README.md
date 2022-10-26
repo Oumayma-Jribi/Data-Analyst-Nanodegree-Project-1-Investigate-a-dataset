@@ -22,5 +22,20 @@ By the end, I summarize my analysis by answering 4 questions:
 ### Data Dictionay: 
 | Variable | Type | Definition | Example |
 | ------------- | ------------- |------------- |------------- |
-| id |  |  |  |
-| imdb_id |  |  |  |
+| id | int |  |  |
+| imdb_id | object |  |  |
+| popularity | float |  |  |
+| budget | int |  |  |
+| revenue | int |  |  |
+| original_title | object |  |  |
+| cast | object |  |  |
+| homepage | object |  |  |
+| runtime | int |  |  |
+| genres | object |  |  |
+| production_companies | object |  |  |
+| release_date | object |  |  |
+| vote_count | int |  |  |
+| vote_average | float |  |  |
+| release_year | int |  |  |
+| budget_adj | float |  |  |
+| revenue_adj | float |  |  |
